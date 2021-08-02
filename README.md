@@ -27,20 +27,23 @@ GUI Based Java application for hostilities and university staff using MySQL for 
   <h3>STUDENT LOGIN</h3>
 <table>
 <tr>
-<td><img src="https://github.com/Pratyaksh777/HostelManagementSystem/blob/master/Screenshots/Screenshot%20(739).png" width=250></td>
-<td><img src="https://github.com/Pratyaksh777/HostelManagementSystem/blob/master/Screenshots/Screenshot%20(740).png" width=250></td>
-<td><img src="https://github.com/Pratyaksh777/HostelManagementSystem/blob/master/Screenshots/Screenshot%20(741).png" width=250></td>
-<td><img src="https://github.com/Pratyaksh777/HostelManagementSystem/blob/master/Screenshots/Screenshot%20(742).png" width=250></td>
+<td><img src="https://github.com/Pratyaksh777/HostelManagementSystem/blob/master/Screenshots/Screenshot%20(739).png" width=200></td>
+<td><img src="https://github.com/Pratyaksh777/HostelManagementSystem/blob/master/Screenshots/Screenshot%20(740).png" width=200></td>
+<td><img src="https://github.com/Pratyaksh777/HostelManagementSystem/blob/master/Screenshots/Screenshot%20(741).png" width=200></td>
+<td><img src="https://github.com/Pratyaksh777/HostelManagementSystem/blob/master/Screenshots/Screenshot%20(742).png" width=200></td>
+<td><img src="https://github.com/Pratyaksh777/HostelManagementSystem/blob/master/Screenshots/Screenshot%20(744).png" width=200></td>
   </tr>
   </table>
    <h3>WARDEN LOGIN</h3>
   <table>
   <tr>
+    
+<td><img src="https://github.com/Pratyaksh777/HostelManagementSystem/blob/master/Screenshots/Screenshot%20(749).png" width=200></td>
 <td><img src="https://github.com/Pratyaksh777/HostelManagementSystem/blob/master/Screenshots/Screenshot%20(743).png" width=200></td>
-<td><img src="https://github.com/Pratyaksh777/HostelManagementSystem/blob/master/Screenshots/Screenshot%20(744).png" width=200></td>
 <td><img src="https://github.com/Pratyaksh777/HostelManagementSystem/blob/master/Screenshots/Screenshot%20(745).png" width=200></td>
 <td><img src="https://github.com/Pratyaksh777/HostelManagementSystem/blob/master/Screenshots/Screenshot%20(746).png" width=200></td>
 <td><img src="https://github.com/Pratyaksh777/HostelManagementSystem/blob/master/Screenshots/Screenshot%20(747).png" width=200></td>
+<td><img src="https://github.com/Pratyaksh777/HostelManagementSystem/blob/master/Screenshots/Screenshot%20(748).png" width=200></td>
   </tr>
   </table>
 
