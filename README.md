@@ -1,5 +1,5 @@
 # HostelManagementSystem
-## GUI Based Java application for hostilities and university staff using MySQL for leave and complain management.
+<h3>GUI Based Java application for hostilities and university staff using MySQL for leave and complain management.</h3>
 
 
 ## Main Features
