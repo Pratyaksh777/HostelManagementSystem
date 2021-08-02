@@ -4,9 +4,8 @@
 
 ## Main Features
 
-* Support for Light & Dark mode.
-* Video Streaming and Playing (via JSON API created by us and hosted on GitHub at      
-  https://gist.githubusercontent.com/JagratiVerma1408/00f05455a2177daa4b61fb2f95a91d99/raw/620cff1d571d421378b6c543b019c6fd5b50694c/netflix_project.json/).
+* Exception Handaling.
+* 
 * Netflix-like UI (Scroll functionality, Signup, Plan Selection, Splash Screen, Login).
 * In-Build Video Player using ExoPlayer feature of Android.
 * Search functionality based on Genre (based on the categories present in the API).
